@@ -1,6 +1,7 @@
 # pointers-in-3D
 
-Acest proiect foloseste pointerii 3D pentru a realiza functionalitatile unui joc de tip *minecraft*
+Acest proiect foloseste pointerii 3D pentru a realiza functionalitatile unui joc de tip *minecraft*.
+Cerintele pentru fiecare task pot fi gasite aici https://ocw.cs.pub.ro/courses/programare/teme_2024/tema2_2024_cbd
 
 ## Task1
 
